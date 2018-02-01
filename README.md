@@ -1,2 +1,2 @@
 # hello-world
-i am new at this jub :)
+i am new at this job :)
